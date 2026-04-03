@@ -4,7 +4,7 @@ import { useEffect, useRef, useState, useCallback } from 'react'
 import { motion, useScroll, useTransform, useSpring } from 'framer-motion'
 
 const ROLES = ['Full Stack Developer','React.js Specialist','Computer Engineer','DSA Problem Solver','CSE Student @ GTU']
-
+//simran
 function TypingText() {
   const [roleIndex, setRoleIndex] = useState(0)
   const [displayed, setDisplayed] = useState('')
