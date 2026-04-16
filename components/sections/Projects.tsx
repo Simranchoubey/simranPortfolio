@@ -14,8 +14,8 @@ const projects = [
     longDesc: 'InterviewMate AI is a full-stack platform built to help developers prepare for technical interviews more effectively. It integrates large language models to generate dynamic, role-specific questions in real time. The platform includes a secure authentication system, session tracking, and a performance feedback engine that analyzes response quality and suggests improvements.',
     tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'LLM APIs'],
     highlights: ['Real-time AI question generation', 'Performance analytics dashboard', 'Secure JWT authentication', 'Adaptive difficulty engine'],
-    github: 'https://github.com/Simranchoubey/InterviewAI',
-    Live: 'https://simranchoubey.github.io/InterviewAI/',
+    github: 'https://github.com/Simranchoubey/InterviewMateAI',
+    Live: 'https://interview-mate-ai-two.vercel.app/',
     color: '#64ffda',
   },
   {
